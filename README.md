@@ -10,13 +10,13 @@ Collection of PyTorch implementations of Generative Adversarial Network varietie
 ## Table of Contents
   * [Installation](#installation)
   * [Implementations](#implementations)
-      + [[GAN] Generative Adversarial Nets(2014, Ian Goodfellow’s breakthrough paper)](#gan):smile:
+      + [[GAN] Generative Adversarial Nets(2014, Ian Goodfellow’s breakthrough paper)](#gan):smile::thumbsup:
       + [Generating High-Quality images]()
-         + [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks(2015)](https://github.com/jacobgil/keras-dcgan)
+         + [DCGAN: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks(2015)](https://github.com/jacobgil/keras-dcgan):thumbsup:
          + [Generative Adversarial Text to Image Synthesis(2016)](https://github.com/reedscot/icml2016)
          + [Improved Techniques for Training GANs(2016)](https://github.com/openai/improved-gan)
          + [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space(2016)](https://github.com/Evolving-AI-Lab/ppgn)
-         + [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks(2017)](https://github.com/hanzhanggit/StackGAN)
+         + [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks(2017)](https://github.com/hanzhanggit/StackGAN):thumbsup:
          + [Improved Training of Wasserstein GANs(2017)](https://github.com/igul222/improved_wgan_training)
          + [Boundary Equibilibrium Generative Adversarial Networks Implementation in Tensorflow(2017)](https://github.com/artcg/BEGAN)
          + [Progressive Growing of GANs for Improved Quality, Stability, and Variation(2018)](https://github.com/tkarras/progressive_growing_of_gans)
@@ -36,7 +36,7 @@ Collection of PyTorch implementations of Generative Adversarial Network varietie
        + [Coupled GAN: Coupled Generative Adversarial Networks(2016)](#coupled-gan)
        + [Pix2Pix: Unpaired Image-to-Image Translation with Conditional Adversarial Networks(2016)](#pix2pix)
        + [BicycleGAN: Toward Multimodal Image-to-Image Translation(2017)](#bicyclegan)
-       + [CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks(2017)](#cyclegan)
+       + [CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks(2017)](#cyclegan):thumbsup:
        + [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation(2017)](#stargan)
        + [UNIT: Unsupervised Image-to-Image Translation Networks(2017)](#unit)
        + [DiscoGAN: Learning to Discover Cross-Domain Relations with Generative Adversarial Networks(2017)](#discogan)
@@ -49,7 +49,7 @@ Collection of PyTorch implementations of Generative Adversarial Network varietie
     + [GAN theroy]()
        + [Energy-Based GAN(2016)](#energy-based-gan)
        + [Least Squares GAN(2016)](#least-squares-gan)
-       + [Wasserstein GAN(2017)](#wasserstein-gan)
+       + [Wasserstein GAN(2017)](#wasserstein-gan):thumbsup:
        + [Wasserstein GAN GP(2017)](#wasserstein-gan-gp)
        + [Wasserstein GAN DIV(2017)](#wasserstein-gan-div)
     + [Conditional Adversarial Nets]()
@@ -71,8 +71,8 @@ Collection of PyTorch implementations of Generative Adversarial Network varietie
        + [DRAGAN(2017)](#dragan)
        + [PixelDA(2016)](#pixelda)
        + [Relativistic GAN(2018)](#relativistic-gan)
-       + [StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks(2019)](./implementations/stylegan)
-       + [BigGAN:  Large Scale GAN Training for High Fidelity Natural Image Synthesis(2019)](./implementations/biggan)
+       + [StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks(2019)](./implementations/stylegan):thumbsup:
+       + [BigGAN:  Large Scale GAN Training for High Fidelity Natural Image Synthesis(2019)](./implementations/biggan):thumbsup:
 
 
 ## Installation
