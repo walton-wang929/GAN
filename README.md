@@ -10,7 +10,7 @@ Collection of PyTorch implementations of Generative Adversarial Network varietie
 ## Table of Contents
   * [Installation](#installation)
   * [Implementations](#implementations)
-      + [[GAN] Generative Adversarial Nets(2014, Ian Goodfellow’s breakthrough paper)](#gan)
+      + [[GAN] Generative Adversarial Nets(2014, Ian Goodfellow’s breakthrough paper)](#gan):smile:
       + [Generating High-Quality images]()
          + [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks(2015)](https://github.com/jacobgil/keras-dcgan)
          + [Generative Adversarial Text to Image Synthesis(2016)](https://github.com/reedscot/icml2016)
@@ -71,6 +71,8 @@ Collection of PyTorch implementations of Generative Adversarial Network varietie
        + [DRAGAN(2017)](#dragan)
        + [PixelDA(2016)](#pixelda)
        + [Relativistic GAN(2018)](#relativistic-gan)
+       + [StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks(2019)](./implementations/stylegan)
+       + [BigGAN:  Large Scale GAN Training for High Fidelity Natural Image Synthesis(2019)](./implementations/biggan)
 
 
 ## Installation
