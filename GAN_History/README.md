@@ -2,6 +2,8 @@
 
 ![](2014-2019_GAN_Map.png)
 
+![](gan_map2.jpg)
+
 We’ll traverse it one step at a time. Let the journey begin.
 
 1. GAN: Generative Adversarial Networks
